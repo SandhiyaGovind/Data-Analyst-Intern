@@ -1,1 +1,2 @@
-# cleaning-data-task-1
+The data cleaning process involves several key steps to ensure data quality and reliability. First, data is inspected for errors, inconsistencies, and missing values. Next, irrelevant or duplicate entries are identified and removed. Missing data is then handled through methods such as imputation or deletion. Outliers are detected and addressed based on the context of the data. Data is also standardized and transformed to maintain consistency in formats, such as date formats and categorical labels. Finally, the cleaned data is validated to ensure accuracy and completeness before analysis or modeling.
+
